@@ -1,3 +1,3 @@
-# Socar-x-LikeLion-AI
+# Socar + LikeLion AI Bootcamp
 
-Hello!
+Yay
